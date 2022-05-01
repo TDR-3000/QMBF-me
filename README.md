@@ -22,5 +22,6 @@ $ ls
 
 $ python run.py
 
-# Follow Lah Kontol
-# Pake Doang Follow Kaga Dasar Kontol
+# halo anak anjj
+# kalo dah pake sc ya follow kontoll 
+# pake doang follow kaga, dasar kontol
