@@ -1,4 +1,4 @@
-# INSTALL TOOLS
+# Instal Bahan
 
 $ pkg update && pkg upgrade
 
@@ -21,3 +21,6 @@ $ cd QMBF
 $ ls
 
 $ python run.py
+
+# Follow Lah Kontol
+# Pake Doang Follow Kaga Dasar Kontol
